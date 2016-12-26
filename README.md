@@ -10,4 +10,6 @@
 仅供参考    
 
 
-可以根据需求自定义图片文字 逻辑已经写好
+可以根据需求自定义图片文字 逻辑已经写好    
+
+![image](http://ww2.sinaimg.cn/mw690/80888a28gw1fb4bdzsh5gg20a90ic7nb.gif)    
