@@ -5,5 +5,6 @@
      lazy var refreshControl: JPRefreshControl = JPRefreshControl()   
      refreshTableView?.addSubview(refreshControl)   
      refreshControl.addTarget(self, action: #selector(loadData), for: .valueChanged)     
-4--> 拿到数据后 结束刷新 self.refreshControl.endRefreshing()     
+4--> 拿到数据后 结束刷新 self.refreshControl.endRefreshing()   
+
 仅供参考
